@@ -3,3 +3,9 @@
     margin 0;
     padding: 0;
 }
+html {
+    --accent: blue;
+    --light: whitesmoke;
+    --mid: #999;
+
+}
