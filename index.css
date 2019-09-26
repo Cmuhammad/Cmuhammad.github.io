@@ -4,8 +4,5 @@
     padding: 0;
 }
 .wrapper{
-    --accent: blue;
-    --light: whitesmoke;
-    --mid: #999;
-
+        font: blue;
 }
