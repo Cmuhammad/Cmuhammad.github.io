@@ -1,6 +1,6 @@
 .AboutMe {
-    display: flex;
-    flex-direction: row; 
+    display: -webkit-flex;
+    -webkit-align-items: center; 
     justify-content: center;
     align-items: center;
 }
