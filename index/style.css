@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
+/* #page {
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    
+    grid-template-areas: "head head head head head head"
+                         "nav main main main main main"
+                         "nav main main main main main "
+                         "foot foot foot foot foot foot";
+
+    grid-template-rows: 10% 40% 40% 10%;
+
+    grid-template-columns: 10% 20% 20% 20% 20% 20%; 
+
+  } */
+
+* { 
+    padding: 0;
+    margin: 0;
+  } 
+
+.name-title {
+    border-width:3px;  
+    border-style:double;
+    color: blue
+}
+.name-title {
+    text-align: center
+    
+}
+
